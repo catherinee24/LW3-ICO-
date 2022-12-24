@@ -17,10 +17,10 @@ Making the frontend part of my project ICO smart contract!
 
 ```bash
 # Clone this project
-$ git clone https://github.com/catherinee24/LW3-ICO
+$ git clone https://github.com/catherinee24/LW3-ICO-
 
 # Access
-$ cd LW3-ICO
+$ cd LW3-ICO-
 
 # Install dependencies
 $ npm install 
